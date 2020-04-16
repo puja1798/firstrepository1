@@ -1,0 +1,3 @@
+welcome to my notes
+i have created my first repository to understand the git fuctionalities
+after i have created a new file with name- notes.txt
