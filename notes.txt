@@ -3,3 +3,6 @@ i have created my first repository to understand the git fuctionalities
 after i have created a new file with name- notes.txt
 i have learned how to commit
 thank you
+
+
+finalcopy
