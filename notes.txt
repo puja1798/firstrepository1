@@ -2,7 +2,11 @@ welcome to my notes
 i have created my first repository to understand the git fuctionalities
 after i have created a new file with name- notes.txt
 i have learned how to commit
-thank you
+
+Now i should learn how to create a  branch 
+i want to make this two sentences 
 
 
+done with the changes
 finalcopy
+
